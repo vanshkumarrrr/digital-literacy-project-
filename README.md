@@ -2,8 +2,8 @@
 
 ## Student Details
 Name: Vansh Kumar  
-Registration Number: YOUR_REG_NO  
-Branch: B.Tech (Your Branch)  
+Registration Number: 25BCE11260  
+Branch: B.Tech (CSE Core)  
 Year: 1st Year  
 
 Course Code: CSE0001  
@@ -38,5 +38,5 @@ Prepared a case study on cybercrime and created an online safety checklist.
 
 ---
 
-## Repository Structure
+
 
